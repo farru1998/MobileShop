@@ -1,0 +1,40 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	
+}
+body{
+	
+	background-color: 		#F5F5F5;
+	font-family: calibri;
+
+	
+}
+
+
+
+.logo
+{
+	height: 60px;
+	margin: 5px 3px;
+	border-radius: 9px;
+	background-color: 15px 	#202020;
+
+}
+
+
+.row
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.powerbank img
+{
+	width: 55%;
+	height: 50%;
+	border-radius: 10px;
+	box-shadow: 4px			#F5F5F5;
+	
+}
